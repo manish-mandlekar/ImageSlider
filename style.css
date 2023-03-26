@@ -10,11 +10,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(179, 147, 201);
+    background-color: rgb(67, 19, 99);
 }
 
 .img-cnt{
-    box-shadow: 10px 10px 40px 10px black;
+    box-shadow: 10px 10px 60px 10px rgb(222, 229, 93);
     width: 70vmax;
     height: 80vh;
    background: url(./3.jpg);
